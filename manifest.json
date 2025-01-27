@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Hello",
+    "OrganizationName": "青年联盟",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 2
