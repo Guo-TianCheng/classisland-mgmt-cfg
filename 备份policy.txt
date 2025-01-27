@@ -1,0 +1,5 @@
+{
+    "DisableSettingsEditing": true,
+    "AllowExitManagement": true,
+    "DisableDebugMenu": true
+}
