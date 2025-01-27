@@ -18,3 +18,24 @@
         "Version": 1
     }
 }
+
+{
+    "ServerKind": 0,
+    "OrganizationName": "Hello",
+    "ClassPlanSource": {
+        "Value": "https://gist.github.site/HelloWRC/a0d817648c8f65f26e7d1ab3eb762917/raw/ff6867942311c0c297e90710ab5cd7d147ae98eb/classplans.json",
+        "Version": 2
+    },
+    "TimeLayoutSource": {
+        "Value": "https://gist.githubusercontent.com/HelloWRC/a0d817648c8f65f26e7d1ab3eb762917/raw/ff6867942311c0c297e90710ab5cd7d147ae98eb/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://gist.github.site/HelloWRC/a0d817648c8f65f26e7d1ab3eb762917/raw/ff6867942311c0c297e90710ab5cd7d147ae98eb/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
+}
