@@ -11,7 +11,7 @@
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 2
+        "Version": 3
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/policy.json",
