@@ -1,5 +1,10 @@
 {
+    "DisableProfileClassPlanEditing": true,
+    "DisableProfileTimeLayoutEditing": true,
+    "DisableProfileSubjectsEditing": true,
+    "DisableProfileEditing": true,
     "DisableSettingsEditing": true,
-    "AllowExitManagement": true,
-    "DisableDebugMenu": true
+    "DisableSplashCustomize": true,
+    "DisableDebugMenu": true,
+    "AllowExitManagement": true
 }
