@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/policy.json",
-        "Version": 11
-    }
+        "Version": 15   
+     }
 }
