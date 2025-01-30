@@ -19,6 +19,6 @@
     },
     "IslandsSource":{
         "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/island.json",
-        "Version":1
+        "Version":2
     }
 }
