@@ -7,18 +7,18 @@
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/{id}/timelayouts.json",
-        "Version": 14
+        "Version": 15
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 14
+        "Version": 15
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/policy.json",
-        "Version": 19
+        "Version": 20
     },
     "IslandsSource":{
         "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/island.json",
-        "Version":2
+        "Version":3
     }
 }
