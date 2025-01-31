@@ -3,7 +3,7 @@
     "OrganizationName": "青年联盟",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/{id}/classplans.json",
-        "Version": 24
+        "Version": 25
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/{id}/timelayouts.json",
