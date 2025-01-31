@@ -14,11 +14,11 @@
         "Version": 16
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/policy.json",
         "Version": 21
     },
     "IslandsSource":{
         "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/island.json",
-        "Version":4
+        "Version":5
     }
 }
