@@ -3,22 +3,22 @@
     "OrganizationName": "青年联盟",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 26
+        "Version": 27
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/timelayouts.json",
-        "Version": 16
+        "Version": 17
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/subjects.json",
-        "Version": 16
+        "Version": 17
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/policy.json",
-        "Version": 21
+        "Version": 22
     },
     "DefaultSettingsSource":{
         "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/DefaultSettings.json",
-        "Version":5
+        "Version":6
     }
 }
