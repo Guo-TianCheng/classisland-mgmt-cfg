@@ -17,8 +17,8 @@
         "Value": "https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/{id}/policy.json",
         "Version": 21
     },
-    "IslandsSource":{
-        "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/island.json",
+    "DefaultSettingsSource":{
+        "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/DefaultSettings.json",
         "Version":5
     }
 }
