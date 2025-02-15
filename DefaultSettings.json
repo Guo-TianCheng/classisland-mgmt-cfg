@@ -1,1 +1,685 @@
-[{"Id":"DF3F8295-21F6-482E-BADA-FA0E5F14BB66","NameCache":"","Settings":null,"HideOnRule":false,"HidingRules":{"Mode":0,"IsReversed":false,"Groups":[],"IsActive":false},"IsResourceOverridingEnabled":false,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"ForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"IsActive":false},{"Id":"9e1af71d-8f77-4b21-a342-448787104dd9","NameCache":"","Settings":{"ShowSeconds":false,"IsActive":false},"HideOnRule":false,"HidingRules":{"Mode":0,"IsReversed":false,"Groups":[],"IsActive":false},"IsResourceOverridingEnabled":false,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"ForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"IsActive":false},{"Id":"ca495086-e297-4beb-9603-c5c1c1a8551e","NameCache":"","Settings":{"ShowAlerts":true,"IsActive":false},"HideOnRule":false,"HidingRules":{"Mode":0,"IsReversed":false,"Groups":[],"IsActive":false},"IsResourceOverridingEnabled":false,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"ForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"IsActive":false},{"Id":"ab0f26d5-9df6-4575-b844-73b04d0907c1","NameCache":"","Settings":null,"HideOnRule":false,"HidingRules":{"Mode":0,"IsReversed":false,"Groups":[],"IsActive":false},"IsResourceOverridingEnabled":false,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"ForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"IsActive":false},{"Id":"1db2017d-e374-4bc6-9d57-0b4adf03a6b8","NameCache":"","Settings":{"ShowExtraInfoOnTimePoint":true,"ExtraInfoType":0,"IsCountdownEnabled":true,"CountdownSeconds":60,"ExtraInfo4ShowSecondsSeconds":0,"ScheduleSpacing":1,"ShowCurrentLessonOnlyOnClass":false,"ShowPlaceholderOnEmptyClassPlan":true,"PlaceholderText":"\u4ECA\u5929\u6CA1\u6709\u8BFE\u7A0B\u3002","IsActive":false},"HideOnRule":false,"HidingRules":{"Mode":0,"IsReversed":false,"Groups":[],"IsActive":false},"IsResourceOverridingEnabled":false,"MainWindowSecondaryFontSize":14,"MainWindowBodyFontSize":16,"MainWindowEmphasizedFontSize":18,"MainWindowLargeFontSize":20,"IsCustomForegroundColorEnabled":false,"ForegroundColor":{"ColorContext":null,"A":255,"R":30,"G":144,"B":255,"ScA":1,"ScR":0.0129830325,"ScG":0.2788943,"ScB":1},"IsActive":false}]
+{
+    "SelectedProfile": "Class3Senior1.json",
+    "IsMainWindowVisible": true,
+    "IsWelcomeWindowShowed": true,
+    "SingleWeekStartTime": "2025-02-17T00:00:00",
+    "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
+    "ClassPrepareNotifySeconds": 60,
+    "IsClassPrepareNotificationEnabled": true,
+    "MiniInfoProviderSettings": {
+  
+    },
+    "SelectedMiniInfoProvider": "d9fc55d6-8061-4c21-b521-6b0532ff735f",
+    "ShowDate": true,
+    "HideOnClass": false,
+    "IsClassChangingNotificationEnabled": true,
+    "IsClassOffNotificationEnabled": true,
+    "HideMode": 0,
+    "HiedRules": {
+      "Mode": 0,
+      "IsReversed": false,
+      "Groups": [],
+      "IsActive": false
+    },
+    "HideOnFullscreen": false,
+    "ExcludedFullscreenWindow": [
+      "explorer"
+    ],
+    "HideOnMaxWindow": false,
+    "IsReportingEnabled": true,
+    "TaskBarIconClickBehavior": 0,
+    "ShowExtraInfoOnTimePoint": true,
+    "ExtraInfoType": 0,
+    "IsCountdownEnabled": true,
+    "CountdownSeconds": 60,
+    "ExtraInfo4ShowSecondsSeconds": 300,
+    "ScheduleSpacing": 1,
+    "ShowCurrentLessonOnlyOnClass": false,
+    "DefaultOnClassTimePointMinutes": 40,
+    "DefaultBreakingTimePointMinutes": 10,
+    "IsSplashEnabled": true,
+    "SplashCustomText": "",
+    "SplashCustomLogoSource": "",
+    "ExactTimeServer": "ntp.aliyun.com",
+    "IsExactTimeEnabled": true,
+    "TimeOffsetSeconds": 6,
+    "IsTimeAutoAdjustEnabled": false,
+    "TimeAutoAdjustSeconds": 0,
+    "LastTimeAdjustDateTime": "2025-02-15T00:00:00+08:00",
+    "IsTransientDisabled": false,
+    "IsWaitForTransientDisabled": false,
+    "IsCriticalSafeMode": false,
+    "Theme": 2,
+    "PrimaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 191,
+      "B": 255,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0.5209956,
+      "ScB": 1
+    },
+    "SecondaryColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 127,
+      "G": 255,
+      "B": 212,
+      "ScA": 1,
+      "ScR": 0.21223076,
+      "ScG": 1,
+      "ScB": 0.65837485
+    },
+    "ColorSource": 0,
+    "WallpaperColorPlatte": [
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 25,
+        "G": 114,
+        "B": 140,
+        "ScA": 1,
+        "ScR": 0.009721218,
+        "ScG": 0.1682694,
+        "ScB": 0.2622507
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 149,
+        "G": 158,
+        "B": 40,
+        "ScA": 1,
+        "ScR": 0.3005438,
+        "ScG": 0.34191445,
+        "ScB": 0.021219011
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 109,
+        "G": 141,
+        "B": 30,
+        "ScA": 1,
+        "ScR": 0.15292616,
+        "ScG": 0.26635563,
+        "ScB": 0.0129830325
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 22,
+        "G": 86,
+        "B": 97,
+        "ScA": 1,
+        "ScR": 0.008023193,
+        "ScG": 0.093058966,
+        "ScB": 0.119538434
+      },
+      {
+        "ColorContext": null,
+        "A": 255,
+        "R": 173,
+        "G": 201,
+        "B": 37,
+        "ScA": 1,
+        "ScR": 0.4178851,
+        "ScG": 0.58407843,
+        "ScB": 0.018500222
+      }
+    ],
+    "SelectedPlatteIndex": 0,
+    "IsWallpaperAutoUpdateEnabled": false,
+    "WallpaperAutoUpdateIntervalSeconds": 60,
+    "WallpaperClassName": "",
+    "IsFallbackModeEnabled": true,
+    "TargetLightValue": 0.6,
+    "IsCustomBackgroundColorEnabled": false,
+    "BackgroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "ScA": 1,
+      "ScR": 0,
+      "ScG": 0,
+      "ScB": 0
+    },
+    "Opacity": 0.55,
+    "Scale": 1,
+    "MainWindowFont": "/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC",
+    "MainWindowFontWeight2": 500,
+    "RadiusX": 0,
+    "RadiusY": 0,
+    "MainWindowSecondaryFontSize": 14,
+    "MainWindowBodyFontSize": 16,
+    "MainWindowEmphasizedFontSize": 18,
+    "MainWindowLargeFontSize": 20,
+    "IsCustomForegroundColorEnabled": false,
+    "CustomForegroundColor": {
+      "ColorContext": null,
+      "A": 255,
+      "R": 30,
+      "G": 144,
+      "B": 255,
+      "ScA": 1,
+      "ScR": 0.0129830325,
+      "ScG": 0.2788943,
+      "ScB": 1
+    },
+    "CurrentComponentConfig": "Default",
+    "IsNotificationEnabled": true,
+    "NotificationProvidersEnableStates": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": true,
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
+      "7625de96-38aa-4b71-b478-3f156dd9458d": true,
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": true,
+      "0117fb4f-5374-434a-97fb-4f5374634a07": true
+    },
+    "NotificationProvidersPriority": [
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
+      "7625de96-38aa-4b71-b478-3f156dd9458d",
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92",
+      "0117fb4f-5374-434a-97fb-4f5374634a07"
+    ],
+    "NotificationProvidersSettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsClassOnNotificationEnabled": true,
+        "IsClassOnPreparingNotificationEnabled": true,
+        "IsClassOffNotificationEnabled": true,
+        "InDoorClassPreparingDeltaTime": 60,
+        "OutDoorClassPreparingDeltaTime": 600,
+        "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+        "ClassOnPreparingMaskText": "即将上课",
+        "ClassOnMaskText": "上课",
+        "ClassOffMaskText": "课间休息",
+        "IsSpeechEnabledOnClassPreparing": true,
+        "IsSpeechEnabledOnClassOn": true,
+        "IsSpeechEnabledOnClassOff": true,
+        "ShowTeacherName": true,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsEnabled": true,
+        "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "AlertShowMode": 1,
+        "ForecastShowMode": 0,
+        "IsAlertEnabled": true,
+        "IsForecastEnabled": true,
+        "WeatherAlertSpeed": 7,
+        "IsActive": false
+      },
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
+        "Latitude": 28.741,
+        "Longitude": 104.85,
+        "Threshold": 2,
+        "Info": "在2025/2/9 15:36:59时，西藏定日(29.057777 86.65503)发生3.6000009级地震，震源深度8km。本地距离1772km，本地烈度0.0。",
+        "IsActive": false
+      },
+      "0117fb4f-5374-434a-97fb-4f5374634a07": null
+    },
+    "NotificationProvidersNotifySettings": {
+      "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": true,
+        "IsActive": false
+      },
+      "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": true,
+        "IsActive": false
+      },
+      "7625de96-38aa-4b71-b478-3f156dd9458d": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": true,
+        "IsActive": false
+      },
+      "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": true,
+        "IsActive": false
+      },
+      "0117fb4f-5374-434a-97fb-4f5374634a07": {
+        "IsNotificationEnabled": true,
+        "IsSpeechEnabled": false,
+        "IsNotificationEffectEnabled": true,
+        "IsNotificationSoundEnabled": false,
+        "NotificationSoundPath": "",
+        "IsNotificationTopmostEnabled": false,
+        "IsSettingsEnabled": false,
+        "IsActive": false
+      }
+    },
+    "IsSystemSpeechSystemExist": true,
+    "IsNetworkConnect": true,
+    "IsSpeechEnabled": true,
+    "SpeechVolume": 1,
+    "SpeechSource": 1,
+    "EdgeTtsVoiceName": "zh-CN-XiaoxiaoNeural",
+    "IsNotificationEffectEnabled": true,
+    "IsNotificationSoundEnabled": true,
+    "NotificationSoundPath": "",
+    "IsNotificationTopmostEnabled": true,
+    "NotificationEffectRenderingScale": 1,
+    "IsNotificationEffectRenderingScaleAutoSet": true,
+    "IsNotificationSpeechEnabled": true,
+    "AllowNotificationSpeech": false,
+    "AllowNotificationEffect": true,
+    "AllowNotificationSound": false,
+    "AllowNotificationTopmost": true,
+    "NotificationSoundVolume": 1,
+    "NotificationSpeechCustomSmgTokenSource": "",
+    "UpdateMode": 3,
+    "ReleaseChannels": {
+  
+    },
+    "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
+    "LastCheckUpdateTime": "2025-02-15T20:09:18.2537306+08:00",
+    "LastCheckUpdateInfoCache": {
+      "version": "",
+      "id": -1,
+      "uploaded_at": "0001-01-01T00:00:00",
+      "package_hashes": [],
+      "download_url": "",
+      "release_notes": "",
+      "fingerprint": "",
+      "IsActive": false
+    },
+    "LastUpdateStatus": 0,
+    "AutoInstallUpdateNextStartup": true,
+    "SpeedTestResults": {
+      "8593a4a2-0848-40ca-a87c-16e46bf5f695": {
+        "Delay": 9999,
+        "CanConnect": true,
+        "IsTested": true,
+        "IsTesting": false,
+        "IsDelayUnclear": true,
+        "IsActive": false
+      },
+      "05cb3142-d4ea-4eb0-9dfc-ddc3af6e20b0": {
+        "Delay": 163,
+        "CanConnect": true,
+        "IsTested": true,
+        "IsTesting": false,
+        "IsDelayUnclear": false,
+        "IsActive": false
+      },
+      "454a648f-12a0-485e-ae85-10a738e25679": {
+        "Delay": 123,
+        "CanConnect": true,
+        "IsTested": true,
+        "IsTesting": false,
+        "IsDelayUnclear": false,
+        "IsActive": false
+      }
+    },
+    "SelectedUpgradeMirror": "454a648f-12a0-485e-ae85-10a738e25679",
+    "IsAutoSelectUpgradeMirror": true,
+    "LastSpeedTest": "2025-02-14T17:17:11.4479329+08:00",
+    "LastUpdateSourceKind": 1,
+    "UpdateReleaseInfo": "1.5 - Griseo\r\n\r\n本版本包含了对 1.5 的一些 Bug 修复和改进。\r\n\r\n## 新增功能和优化\r\n\r\n- 【构建】为 Nuget 包启用源代码链接\r\n\r\n### Bug 修复\r\n\r\n- 【提醒/语音】修复 EdgeTTS 无法使用的问题 ([#489](https://github.com/ClassIsland/ClassIsland/issues/489))\r\n- 【插件】修复插件无法加载依赖的问题\r\n\r\n**Full Changelog**: https://github.com/ClassIsland/ClassIsland/compare/1.5.0.3...1.5.0.4\r\n\r\n***\r\n\r\n\u003E [!important]\r\n\u003E 下载时请注意核对文件MD5是否正确。\r\n\r\n| 文件名 | MD5 |\r\n| --- | --- |\r\n| ClassIsland.zip | `E91DDC6BD48B5FF581D3360AC758F306` |\r\n| ClassIsland_AssetsTrimmed.zip | `ECA795057ECD9B8B06762AEF48407F60` |\r\n\r\n\u003C!-- CLASSISLAND_PKG_MD5 {\"ClassIsland_AssetsTrimmed.zip\":\"ECA795057ECD9B8B06762AEF48407F60\",\"ClassIsland.Core.1.5.0.4.nupkg\":\"1EF97BD93B232214A3979D2ABAA04E0E\",\"ClassIsland.PluginSdk.1.5.0.4.nupkg\":\"4B8C4239DBC9307BE0E57F21B77D8000\",\"ClassIsland.Shared.1.5.0.4.nupkg\":\"3E69FC32B855537FAB3432A54578AA2F\",\"ClassIsland.Shared.IPC.1.5.0.4.nupkg\":\"970F564471F40BECB3CC40CD4566F14B\",\"ClassIsland.zip\":\"E91DDC6BD48B5FF581D3360AC758F306\"} --\u003E",
+    "LastCheckUpdateInfoCacheGitHub": {
+      "Url": "https://api.github.com/repos/ClassIsland/ClassIsland/releases/184495948",
+      "HtmlUrl": "https://github.com/ClassIsland/ClassIsland/releases/tag/1.5.0.4",
+      "AssetsUrl": "https://api.github.com/repos/ClassIsland/ClassIsland/releases/184495948/assets",
+      "UploadUrl": "https://uploads.github.com/repos/ClassIsland/ClassIsland/releases/184495948/assets{?name,label}",
+      "Id": 184495948,
+      "NodeId": "RE_kwDOJ5IdFc4K_y9M",
+      "TagName": "1.5.0.4",
+      "TargetCommitish": "master",
+      "Name": "1.5.0.4",
+      "Body": "1.5 - Griseo\r\n\r\n本版本包含了对 1.5 的一些 Bug 修复和改进。\r\n\r\n## 新增功能和优化\r\n\r\n- 【构建】为 Nuget 包启用源代码链接\r\n\r\n### Bug 修复\r\n\r\n- 【提醒/语音】修复 EdgeTTS 无法使用的问题 ([#489](https://github.com/ClassIsland/ClassIsland/issues/489))\r\n- 【插件】修复插件无法加载依赖的问题\r\n\r\n**Full Changelog**: https://github.com/ClassIsland/ClassIsland/compare/1.5.0.3...1.5.0.4\r\n\r\n***\r\n\r\n\u003E [!important]\r\n\u003E 下载时请注意核对文件MD5是否正确。\r\n\r\n| 文件名 | MD5 |\r\n| --- | --- |\r\n| ClassIsland.zip | `E91DDC6BD48B5FF581D3360AC758F306` |\r\n| ClassIsland_AssetsTrimmed.zip | `ECA795057ECD9B8B06762AEF48407F60` |\r\n\r\n\u003C!-- CLASSISLAND_PKG_MD5 {\"ClassIsland_AssetsTrimmed.zip\":\"ECA795057ECD9B8B06762AEF48407F60\",\"ClassIsland.Core.1.5.0.4.nupkg\":\"1EF97BD93B232214A3979D2ABAA04E0E\",\"ClassIsland.PluginSdk.1.5.0.4.nupkg\":\"4B8C4239DBC9307BE0E57F21B77D8000\",\"ClassIsland.Shared.1.5.0.4.nupkg\":\"3E69FC32B855537FAB3432A54578AA2F\",\"ClassIsland.Shared.IPC.1.5.0.4.nupkg\":\"970F564471F40BECB3CC40CD4566F14B\",\"ClassIsland.zip\":\"E91DDC6BD48B5FF581D3360AC758F306\"} --\u003E",
+      "Draft": false,
+      "Prerelease": false,
+      "CreatedAt": "2024-11-09T09:56:51+00:00",
+      "PublishedAt": "2024-11-09T10:04:26+00:00",
+      "Author": {
+        "Login": "github-actions[bot]",
+        "Id": 41898282,
+        "NodeId": "MDM6Qm90NDE4OTgyODI=",
+        "AvatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "Url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "HtmlUrl": "https://github.com/apps/github-actions",
+        "FollowersUrl": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "FollowingUrl": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "GistsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "StarredUrl": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "SubscriptionsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "OrganizationsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "ReposUrl": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "EventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "ReceivedEventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "Type": "Bot",
+        "SiteAdmin": false
+      },
+      "TarballUrl": "https://api.github.com/repos/ClassIsland/ClassIsland/tarball/1.5.0.4",
+      "ZipballUrl": "https://api.github.com/repos/ClassIsland/ClassIsland/zipball/1.5.0.4",
+      "Assets": [
+        {
+          "Url": "https://api.github.com/repos/ClassIsland/ClassIsland/releases/assets/205276363",
+          "Id": 205276363,
+          "NodeId": "RA_kwDOJ5IdFc4MPETL",
+          "Name": "ClassIsland.zip",
+          "Label": "",
+          "State": "uploaded",
+          "ContentType": "raw",
+          "Size": 40551117,
+          "DownloadCount": 6384,
+          "CreatedAt": "2024-11-09T10:01:25+00:00",
+          "UpdatedAt": "2024-11-09T10:01:27+00:00",
+          "BrowserDownloadUrl": "https://github.com/ClassIsland/ClassIsland/releases/download/1.5.0.4/ClassIsland.zip",
+          "Uploader": {
+            "Login": "github-actions[bot]",
+            "Id": 41898282,
+            "NodeId": "MDM6Qm90NDE4OTgyODI=",
+            "AvatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "Url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "HtmlUrl": "https://github.com/apps/github-actions",
+            "FollowersUrl": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "FollowingUrl": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "GistsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "StarredUrl": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "SubscriptionsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "OrganizationsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "ReposUrl": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "EventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "ReceivedEventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "Type": "Bot",
+            "SiteAdmin": false
+          }
+        },
+        {
+          "Url": "https://api.github.com/repos/ClassIsland/ClassIsland/releases/assets/205276364",
+          "Id": 205276364,
+          "NodeId": "RA_kwDOJ5IdFc4MPETM",
+          "Name": "ClassIsland_AssetsTrimmed.zip",
+          "Label": "",
+          "State": "uploaded",
+          "ContentType": "raw",
+          "Size": 18671178,
+          "DownloadCount": 403,
+          "CreatedAt": "2024-11-09T10:01:28+00:00",
+          "UpdatedAt": "2024-11-09T10:01:29+00:00",
+          "BrowserDownloadUrl": "https://github.com/ClassIsland/ClassIsland/releases/download/1.5.0.4/ClassIsland_AssetsTrimmed.zip",
+          "Uploader": {
+            "Login": "github-actions[bot]",
+            "Id": 41898282,
+            "NodeId": "MDM6Qm90NDE4OTgyODI=",
+            "AvatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "Url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "HtmlUrl": "https://github.com/apps/github-actions",
+            "FollowersUrl": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "FollowingUrl": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "GistsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "StarredUrl": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "SubscriptionsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "OrganizationsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "ReposUrl": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "EventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "ReceivedEventsUrl": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "Type": "Bot",
+            "SiteAdmin": false
+          }
+        }
+      ]
+    },
+    "UpdateDownloadUrl": "https://mirror.ghproxy.com/https://github.com/ClassIsland/ClassIsland/releases/download/1.5.0.4/ClassIsland.zip",
+    "UpdateVersion": "0.0",
+    "UpdateArtifactHash": "E91DDC6BD48B5FF581D3360AC758F306",
+    "WindowDockingLocation": 1,
+    "WindowDockingOffsetX": 0,
+    "WindowDockingOffsetY": 0,
+    "WindowDockingMonitorIndex": 0,
+    "WindowLayer": 1,
+    "IsMouseClickingEnabled": false,
+    "UseRawInput": false,
+    "IsMouseInFadingEnabled": true,
+    "TouchInFadingDurationMs": 0,
+    "IsCompatibleWindowTransparentEnabled": false,
+    "LastWeatherInfo": {
+      "current": {
+        "feelsLike": {
+          "value": "9",
+          "unit": "℃"
+        },
+        "humidity": {
+          "value": "24",
+          "unit": "%"
+        },
+        "pressure": {
+          "value": "955",
+          "unit": "hPa"
+        },
+        "temperature": {
+          "value": "7",
+          "unit": "℃"
+        },
+        "visibility": {
+          "value": "",
+          "unit": "km"
+        },
+        "weather": "1",
+        "pubTime": "2025-02-15T20:05:25+08:00"
+      },
+      "alerts": [],
+      "updateTime": 1739621356355,
+      "forecastDaily": {
+        "precipitationProbability": {
+          "value": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        "temperature": {
+          "value": [
+            {
+              "from": "13",
+              "to": "1"
+            },
+            {
+              "from": "12",
+              "to": "1"
+            },
+            {
+              "from": "12",
+              "to": "1"
+            },
+            {
+              "from": "10",
+              "to": "2"
+            },
+            {
+              "from": "8",
+              "to": "1"
+            },
+            {
+              "from": "8",
+              "to": "1"
+            },
+            {
+              "from": "6",
+              "to": "0"
+            },
+            {
+              "from": "7",
+              "to": "0"
+            },
+            {
+              "from": "8",
+              "to": "0"
+            },
+            {
+              "from": "9",
+              "to": "0"
+            },
+            {
+              "from": "13",
+              "to": "2"
+            },
+            {
+              "from": "11",
+              "to": "1"
+            },
+            {
+              "from": "14",
+              "to": "2"
+            },
+            {
+              "from": "10",
+              "to": "4"
+            },
+            {
+              "from": "6",
+              "to": "0"
+            }
+          ]
+        },
+        "weather": {
+          "value": [
+            {
+              "from": "1",
+              "to": "1"
+            },
+            {
+              "from": "0",
+              "to": "1"
+            },
+            {
+              "from": "0",
+              "to": "1"
+            },
+            {
+              "from": "1",
+              "to": "0"
+            },
+            {
+              "from": "7",
+              "to": "1"
+            },
+            {
+              "from": "7",
+              "to": "7"
+            },
+            {
+              "from": "6",
+              "to": "0"
+            },
+            {
+              "from": "7",
+              "to": "6"
+            },
+            {
+              "from": "1",
+              "to": "2"
+            },
+            {
+              "from": "6",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "2",
+              "to": "2"
+            },
+            {
+              "from": "1",
+              "to": "2"
+            },
+            {
+              "from": "7",
+              "to": "7"
+            },
+            {
+              "from": "7",
+              "to": "6"
+            }
+          ]
+        }
+      }
+    },
+    "CityId": "101110503",
+    "CityName": "渭南.潼关",
+    "ExcludedWeatherAlerts": [],
+    "ExpIsExcelImportEnabled": false,
+    "ExpAllowEditingActivatedTimeLayout": false,
+    "DiagnosticFirstLaunchTime": "2025-02-14T17:16:53.3363894+08:00",
+    "DiagnosticStartupCount": 10,
+    "DiagnosticCrashCount": 0,
+    "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
+    "DiagnosticMemoryKillCount": 0,
+    "DiagnosticLastMemoryKillTime": "2025-02-14T17:16:53.3363895+08:00",
+    "IsAutoBackupEnabled": true,
+    "LastAutoBackupTime": "2025-02-14T17:16:53.3364048+08:00",
+    "AutoBackupLimit": 16,
+    "AutoBackupIntervalDays": 7,
+    "OfficialIndexMirrors": {
+  
+    },
+    "OfficialSelectedMirror": "github",
+    "PluginIndexes": [],
+    "LastRefreshPluginSourceTime": "2025-02-15T13:22:56.2231921+08:00",
+    "IsPluginMarketWarningVisible": false,
+    "IsDebugEnabled": false,
+    "IsDebugOptionsEnabled": false,
+    "IsMainWindowDebugEnabled": false,
+    "DebugAnimationScale": 1,
+    "DebugTimeSpeed": 1,
+    "TimeLayoutEditorIndex": 1,
+    "IsDebugConsoleEnabled": false,
+    "DebugGitHubAuthKey": "",
+    "ContributorsCache": {
+      "Contributors": [],
+      "IsActive": false
+    },
+    "LastAppVersion": "1.5.0.4",
+    "ShowComponentsMigrateTip": false,
+    "IsMigratedFromv1_4": false,
+    "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
+    "IsSwapMode": true,
+    "ShowEchoCaveWhenSettingsPageLoading": false,
+    "SettingsPagesCachePolicy": 0,
+    "IsActive": false
+  }

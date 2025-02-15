@@ -20,6 +20,6 @@
 
     "DefaultSettingsSource":{
         "Value":"https://raw.githubusercontent.com/Guo-TianCheng/classisland-mgmt-cfg/master/DefaultSettings.json",
-        "Version":7
+        "Version":8
     }
 }
